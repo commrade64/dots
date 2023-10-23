@@ -1,0 +1,6 @@
+[
+  ./qt.nix
+
+  ./fonts
+  ./gtk
+]

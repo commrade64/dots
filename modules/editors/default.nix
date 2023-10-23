@@ -1,0 +1,4 @@
+[
+  ./emacs.nix
+  ./neovim.nix
+]
