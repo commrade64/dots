@@ -27,6 +27,9 @@
 
     bspc config focused_border_color     "#504945"
     bspc config normal_border_color      "#282828"
+
+    # Call an auto-start script
+    autostart
   '';
   
   extraConf = builtins.replaceStrings [ "WORKSPACES" ]

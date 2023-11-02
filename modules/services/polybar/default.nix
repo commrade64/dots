@@ -198,7 +198,7 @@ in {
 
             format-disconnected = "<label-disconnected>";
             format-disconnected-prefix = "睊";
-            format-disconnected-background = "\${color.background}";
+            format-disconnected-background = "\${colors.background}";
             format-disconnected-padding = 0;
             label-disconnected = "%{A1:nm-applet &:} Offline%{A}";
           };
